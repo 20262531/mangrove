@@ -1,0 +1,609 @@
+[
+  {
+    "id": "dish-01",
+    "name": "Baked Camembert",
+    "description": "Warm baked Camembert cheese served with honey, garlic, rosemary, nuts and artisan bread",
+    "price": 450,
+    "category": "Starters & Salads",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-01.webp"
+  },
+  {
+    "id": "dish-02",
+    "name": "Burrata Caprese Salad",
+    "description": "Fresh tomato and burrata salad with basil and balsamic dressing",
+    "price": 350,
+    "category": "Starters & Salads",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-02.webp"
+  },
+  {
+    "id": "dish-03",
+    "name": "Beef Carpaccio",
+    "description": "Thinly sliced beef tenderloin with Parmesan, rocket, capers and balsamic dressing",
+    "price": 350,
+    "category": "Starters & Salads",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-03.webp"
+  },
+  {
+    "id": "dish-04",
+    "name": "Butter-Fried Scallops",
+    "description": "Pan-seared Hokkaido scallops served with cauliflower purée, saffron coulis, caviar and sautéed mushrooms",
+    "price": 450,
+    "category": "Starters & Salads",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-04.webp"
+  },
+  {
+    "id": "dish-05",
+    "name": "Smoked Chicken Salad",
+    "description": "House-smoked chicken paired with mango and avocado salsa and coriander dressing",
+    "price": 350,
+    "category": "Starters & Salads",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-06",
+    "name": "Classic Caesar Salad",
+    "description": "Grilled chicken breast with romaine lettuce, crispy bacon, Parmesan and garlic croutons",
+    "price": 180,
+    "category": "Starters & Salads",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-07",
+    "name": "Soft-Shell Crab",
+    "description": "Crispy soft-shell crab served with mango and avocado salsa",
+    "price": 350,
+    "category": "Starters & Salads",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-07.webp"
+  },
+  {
+    "id": "dish-08",
+    "name": "Octopus Salad",
+    "description": "Grilled octopus with chorizo, potato, tomato, olives and orange dressing",
+    "price": 350,
+    "category": "Starters & Salads",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-08.webp"
+  },
+  {
+    "id": "dish-09",
+    "name": "Calamari Fritti",
+    "description": "Golden-fried squid served with garlic mayonnaise",
+    "price": 300,
+    "category": "Starters & Salads",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-10",
+    "name": "Onion Soup",
+    "description": "Classic French onion soup served with cheese-topped bread",
+    "price": 220,
+    "category": "Soups",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-11",
+    "name": "Minestrone Soup",
+    "description": "Mixed vegetable soup with pesto and tapenade",
+    "price": 220,
+    "category": "Soups",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-11.webp"
+  },
+  {
+    "id": "dish-12",
+    "name": "Lobster Bouillabaisse Soup",
+    "description": "Classic lobster bouillabaisse served with crusty bread and rouille",
+    "price": 200,
+    "category": "Soups",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-13",
+    "name": "Mushroom Velouté",
+    "description": "Creamy soup made with three varieties of mushroom, served with pesto and artisan bread",
+    "price": 200,
+    "category": "Soups",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-14",
+    "name": "Grilled Angus Rib Eye",
+    "description": "120-day grain-fed beef (250 g), served with roasted potatoes, vegetables and peppercorn sauce",
+    "price": 890,
+    "category": "Main Courses",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-14.webp"
+  },
+  {
+    "id": "dish-15",
+    "name": "Grilled Angus Beef Sirloin",
+    "description": "120-day grain-fed beef (200 g), served with roasted potatoes, mushroom, vegetables and red wine jus",
+    "price": 890,
+    "category": "Main Courses",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-15.webp"
+  },
+  {
+    "id": "dish-16",
+    "name": "Rack of Lamb",
+    "description": "Roasted rack of lamb served with garlic mashed and lamb gravy sauce",
+    "price": 700,
+    "category": "Main Courses",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-16.webp"
+  },
+  {
+    "id": "dish-17",
+    "name": "Duck Confit",
+    "description": "Classic French-style duck leg confit served with mixed berry sauce and potato dauphinoise",
+    "price": 650,
+    "category": "Main Courses",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-17.webp"
+  },
+  {
+    "id": "dish-18",
+    "name": "Smoked Pork Ribs",
+    "description": "Slow-cooked pork ribs with corn on the cob, coleslaw and crispy chips",
+    "price": 550,
+    "category": "Main Courses",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-18.webp"
+  },
+  {
+    "id": "dish-19",
+    "name": "Seared Tuna",
+    "description": "Seared tuna with salsa verde and rocket salad",
+    "price": 450,
+    "category": "Seafood",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-20",
+    "name": "Grilled Octopus",
+    "description": "Char-grilled octopus served with chorizo caper sauce and potatoes",
+    "price": 450,
+    "category": "Seafood",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-20.webp"
+  },
+  {
+    "id": "dish-21",
+    "name": "Grilled Tiger Prawns",
+    "description": "Grilled tiger prawns served with garlic butter",
+    "price": 450,
+    "category": "Seafood",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-21.webp"
+  },
+  {
+    "id": "dish-22",
+    "name": "Pan-Fried Salmon",
+    "description": "Mediterranean-style salmon steak with roasted tomatoes, chorizo, olives, basil, and white wine cream sauce",
+    "price": 450,
+    "category": "Seafood",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-23",
+    "name": "Grilled White Snapper",
+    "description": "Grilled white snapper on wild spinach with caper berry sauce",
+    "price": 450,
+    "category": "Seafood",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-24",
+    "name": "Mangrove Burger",
+    "description": "Juicy beef patty burger topped with bacon, egg, cheese, onion rings, and fresh salad",
+    "price": 400,
+    "category": "Burgers",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-25",
+    "name": "Grilled Bar Burger",
+    "description": "Beef, sesame bun, cheddar, pickled cucumber, garlic mayo, and fries",
+    "price": 400,
+    "category": "Burgers",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-26",
+    "name": "Vegetable Burger",
+    "description": "Panko-crusted plant-based patty, melted cheese, and fries",
+    "price": 400,
+    "category": "Burgers",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-27",
+    "name": "Chicken Burger",
+    "description": "Grilled chicken breast topped with Brie cheese, avocado, garlic mayo, and fries",
+    "price": 350,
+    "category": "Burgers",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-28",
+    "name": "Big-Batch Bolognese",
+    "description": "Spaghetti with Beef Rump House-Made Bolognese, and Shaved Parmesan",
+    "price": 320,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-28.webp"
+  },
+  {
+    "id": "dish-29",
+    "name": "Fusilli Pesto Sauce",
+    "description": "House-made pesto, lime, and shaved Parmesan",
+    "price": 350,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-29.webp"
+  },
+  {
+    "id": "dish-30",
+    "name": "Pappardelle with Mushroom True Sauce",
+    "description": "Mushroom true sauce served with shaved Parmesan",
+    "price": 350,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-30.webp"
+  },
+  {
+    "id": "dish-31",
+    "name": "Linguine Vongole",
+    "description": "Classic Italian pasta with clams and white wine sauce",
+    "price": 350,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-31.webp"
+  },
+  {
+    "id": "dish-32",
+    "name": "Fettuccine with Smoked Salmon",
+    "description": "Creamy fettuccine with smoked salmon and white wine sauce",
+    "price": 350,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-33",
+    "name": "Spaghetti Carbonara",
+    "description": "Authentic Roman-style pasta with egg yolk, garlic, cheese, cream, and bacon",
+    "price": 300,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-33.webp"
+  },
+  {
+    "id": "dish-34",
+    "name": "Penne Arrabbiata",
+    "description": "Penne arrabbiata with prawns in spicy tomato sauce",
+    "price": 350,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-34.webp"
+  },
+  {
+    "id": "dish-35",
+    "name": "Spaghetti Aglio e Olio",
+    "description": "Spaghetti aglio e olio with smoked bacon, pork sausage, garlic, chili, basil, and Parmesan",
+    "price": 350,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-35.webp"
+  },
+  {
+    "id": "dish-36",
+    "name": "Squid Ink Pasta (Chef’s Signature)",
+    "description": "Black ink pasta with fresh seafood and herbs",
+    "price": 350,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-36.webp"
+  },
+  {
+    "id": "dish-37",
+    "name": "Beef Lasagna",
+    "description": "Traditional beef lasagna with a side of rocket salad",
+    "price": 350,
+    "category": "Pasta",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-37.webp"
+  },
+  {
+    "id": "dish-38",
+    "name": "Pizza Smoked Salmon",
+    "description": "Smoked Salmon, Onion, Capers, Basil and Parmesan",
+    "price": 450,
+    "category": "Pizzas",
+    "options": [],
+    "meal": false,
+    "symbols": [
+      "seafood",
+      "dairy"
+    ]
+  },
+  {
+    "id": "dish-39",
+    "name": "Four-Cheese Pizza",
+    "description": "Four-cheese pizza with mozzarella, Parmesan, Gorgonzola, and cheddar",
+    "price": 450,
+    "category": "Pizzas",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-40",
+    "name": "Mediterranean Veggie Pizza",
+    "description": "Mediterranean-style veggie pizza with tomato, olives, and cheese",
+    "price": 320,
+    "category": "Pizzas",
+    "options": [],
+    "meal": false,
+    "symbols": [],
+    "image": "assets/food/dish-40.webp"
+  },
+  {
+    "id": "dish-41",
+    "name": "Pepperoni Pizza",
+    "description": "Pepperoni, mozzarella, basil, and Parmesan",
+    "price": 400,
+    "category": "Pizzas",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-42",
+    "name": "Hawaiian Pizza",
+    "description": "Pineapple, ham, and Parmesan",
+    "price": 350,
+    "category": "Pizzas",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-43",
+    "name": "Oh... Margherita",
+    "description": "Mozzarella, house-made sauce, basil, and Parmesan",
+    "price": 320,
+    "category": "Pizzas",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-44",
+    "name": "Frutti di Mare Pizza",
+    "description": "Seafood pizza topped with shrimp, squid, and mussels",
+    "price": 350,
+    "category": "Pizzas",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-45",
+    "name": "Prosciutto Pizza",
+    "description": "Thinly sliced prosciutto served with rocket and Parmesan",
+    "price": 450,
+    "category": "Pizzas",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-46",
+    "name": "Baklava with Walnuts & Pistachios",
+    "description": "Layered phyllo pastry with walnuts, pistachios, and honey syrup, served with vanilla ice cream",
+    "price": 260,
+    "category": "Desserts",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-47",
+    "name": "Sticky Toffee Date Pudding",
+    "description": "Served with warm toffee sauce and vanilla ice cream",
+    "price": 250,
+    "category": "Desserts",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-48",
+    "name": "Greek Yogurt Panna Cotta",
+    "description": "Greek yogurt panna cotta with berries and honey",
+    "price": 220,
+    "category": "Desserts",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-49",
+    "name": "Tropical Fruit Plate",
+    "description": "Chef’s selection of seasonal fruits",
+    "price": 200,
+    "category": "Desserts",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-50",
+    "name": "Garlic Bread",
+    "description": "",
+    "price": 120,
+    "category": "Side Dishes",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-51",
+    "name": "Cheesy Garlic Bread",
+    "description": "",
+    "price": 120,
+    "category": "Side Dishes",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-52",
+    "name": "French Fries with Garlic Mayonnaise",
+    "description": "",
+    "price": 120,
+    "category": "Side Dishes",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-53",
+    "name": "Truffle Parmesan Fries",
+    "description": "",
+    "price": 120,
+    "category": "Side Dishes",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-54",
+    "name": "Baked Potato",
+    "description": "",
+    "price": 120,
+    "category": "Side Dishes",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-55",
+    "name": "Roasted Potatoes",
+    "description": "",
+    "price": 120,
+    "category": "Side Dishes",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-56",
+    "name": "Creamy Mashed Potato",
+    "description": "",
+    "price": 120,
+    "category": "Side Dishes",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-57",
+    "name": "Baked Spinach with Cheese Sauce",
+    "description": "",
+    "price": 120,
+    "category": "Side Dishes",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  },
+  {
+    "id": "dish-58",
+    "name": "Marinated Grilled Vegetables",
+    "description": "",
+    "price": 120,
+    "category": "Side Dishes",
+    "options": [],
+    "meal": false,
+    "symbols": []
+  }
+]
