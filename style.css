@@ -2,3 +2,6 @@
 @supports(grid-template-rows:subgrid){.grid>.card{display:grid;grid-row:span 7;grid-template-rows:subgrid;row-gap:0}.grid>.card>.card-content{display:grid;grid-row:span 6;grid-template-rows:subgrid;row-gap:0}.grid .card-bottom{margin-top:0}.grid .view{align-self:start}}
 @media(max-width:850px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}main{padding:0 24px}}
 @media(max-width:520px){main{padding:0 16px}.hero{padding:32px 16px}.logo{width:215px;margin-bottom:24px}h1{font-size:14px;letter-spacing:4px}.hero p{font-size:9px;letter-spacing:1.5px}.controls{padding-top:18px}.grid{gap:12px}.photo{height:140px}.photo>span{font-size:22px}.card-content{padding:14px}.card h3{font-size:16px}.card p{font-size:12px}.price{font-size:18px}.tag{font-size:9px;letter-spacing:1px}.addons div{grid-template-columns:1fr;gap:0}#legend-grid{grid-template-columns:repeat(2,1fr)}.section-heading h2{font-size:23px}.symbol-guide{padding:16px}.addons{padding:20px}}
+
+/* Bound images to the photo container instead of intrinsic grid sizing. */
+.photo>img{position:absolute;inset:0;display:block;width:100%;height:100%;min-width:0;min-height:0;object-fit:contain;box-sizing:border-box}
